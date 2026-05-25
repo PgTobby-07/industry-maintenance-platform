@@ -4,7 +4,7 @@
 >
 > | Member | ID | Role |
 > |--------|-----|------|
-**> | Praise-God Tobby | 2309116418 | QA/Test Engineer |**
+> > | Praise-God Tobby | 2309116418 | QA/Test Engineer |
 > | Obada Abdulhakim Kharaz | 2309115277 | Project Manager |
 > | Mohanad Aref Ali Sultan | 2309115898 | Backend Developer |
 > | Zekeriya Dulli | 2309115377 | Frontend Developer |
