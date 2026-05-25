@@ -4,10 +4,10 @@
 >
 > | Member | ID | Role |
 > |--------|-----|------|
+**> | Praise-God Tobby | 2309116418 | QA/Test Engineer |**
 > | Obada Abdulhakim Kharaz | 2309115277 | Project Manager |
 > | Mohanad Aref Ali Sultan | 2309115898 | Backend Developer |
 > | Zekeriya Dulli | 2309115377 | Frontend Developer |
-> | Praise-God Tobby | 2309116418 | QA/Test Engineer |
 > | Fares Stouhi | 2309115179 | UX/UI Designer |
 > | Hamdi Alnaqeeb | 2309116178 | DevOps/Operations Engineer |
 > | Abdulaziz Alyahya | 2309116441 | Risk Manager |
